@@ -1,0 +1,3 @@
+2021-03-05T11:54:31.194182300
+Avarage of WOB: 1.5
+Drilling interval equals: 452.2
